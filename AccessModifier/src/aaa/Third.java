@@ -1,0 +1,5 @@
+package aaa;
+
+class Third {
+
+}

@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="GameManager" project="SutdaMulti" file="/SutdaMulti/src/GameManager.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="152" x="1432" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="ClientRoom.WaitingRoom" project="SutdaMulti" 
+    file="/SutdaMulti/src/ClientRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="101" x="669" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="PlayerInfo.BettingButtonListener" project="SutdaMulti" 
+    file="/SutdaMulti/src/PlayerInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2893" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="PlayerInfo.PlayerCardPanel" project="SutdaMulti" 
+    file="/SutdaMulti/src/PlayerInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="178" x="2570" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="PlayerNCardPanel" project="SutdaMulti" 
+    file="/SutdaMulti/src/PlayerNCardPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="169" x="1120" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="CenterPlayers_MoneyPanel.MoneyPanel" project="SutdaMulti" 
+    file="/SutdaMulti/src/CenterPlayers_MoneyPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="178" x="2352" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="CenterPlayers_MoneyPanel.Player2CardPanel" project="SutdaMulti" 
+    file="/SutdaMulti/src/CenterPlayers_MoneyPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="178" x="1832" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="NorthernPlayers.Player4CardPanel" project="SutdaMulti" 
+    file="/SutdaMulti/src/NorthernPlayers.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="178" x="849" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Main" project="SutdaMulti" file="/SutdaMulti/src/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="154" x="475" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="SinglePlay" project="SutdaMulti" file="/SutdaMulti/src/SinglePlay.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="178" x="475" y="187"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="MyJButton" project="SutdaMulti" file="/SutdaMulti/src/MyJButton.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="178" x="3127" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="SinglePlay.GameThread" project="SutdaMulti" 
+    file="/SutdaMulti/src/SinglePlay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="97" x="-48" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Jokbo" project="SutdaMulti" file="/SutdaMulti/src/Jokbo.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="129" x="1476" y="1252"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="MultiPlay" project="SutdaMulti" file="/SutdaMulti/src/MultiPlay.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="178" x="1741" y="187"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="NorthernPlayers" project="SutdaMulti" file="/SutdaMulti/src/NorthernPlayers.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="286" x="1329" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="PlayerInfo.ChattingPanel" project="SutdaMulti" 
+    file="/SutdaMulti/src/PlayerInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="103" x="3345" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="MultiPlay.GameThread" project="SutdaMulti" file="/SutdaMulti/src/MultiPlay.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="97" x="641" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="ClientRoom" project="SutdaMulti" file="/SutdaMulti/src/ClientRoom.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="138" x="669" y="-289"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="MultiPlay.RepaintThread" project="SutdaMulti" 
+    file="/SutdaMulti/src/MultiPlay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="107" x="778" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="SinglePlay.RepaintThread" project="SutdaMulti" 
+    file="/SutdaMulti/src/SinglePlay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="107" x="89" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="CenterPlayers_MoneyPanel" project="SutdaMulti" 
+    file="/SutdaMulti/src/CenterPlayers_MoneyPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="340" x="2249" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="Main.Panel1" project="SutdaMulti" file="/SutdaMulti/src/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="178" x="257" y="187"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="PlayerInfo" project="SutdaMulti" file="/SutdaMulti/src/PlayerInfo.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="204" x="2893" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="ClientRoom.ClientThread" project="SutdaMulti" 
+    file="/SutdaMulti/src/ClientRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="96" x="810" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="SinglePlay.CardDistribute" project="SutdaMulti" 
+    file="/SutdaMulti/src/SinglePlay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="155" x="257" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="MultiPlay.CardDistribute" project="SutdaMulti" 
+    file="/SutdaMulti/src/MultiPlay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="155" x="925" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="Card" project="SutdaMulti" file="/SutdaMulti/src/CardDeck.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="181" x="1647" y="1656"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="CardDeck" project="SutdaMulti" file="/SutdaMulti/src/CardDeck.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="144" x="1461" y="1445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="AIBetting" project="SutdaMulti" file="/SutdaMulti/src/AIBetting.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="126" x="1666" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="PlayerInfo.PlayerBettingPanel" project="SutdaMulti" 
+    file="/SutdaMulti/src/PlayerInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="178" x="3488" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="NorthernPlayers.Player3CardPanel" project="SutdaMulti" 
+    file="/SutdaMulti/src/NorthernPlayers.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="178" x="1067" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="CenterPlayers_MoneyPanel.Player5CardPanel" project="SutdaMulti" 
+    file="/SutdaMulti/src/CenterPlayers_MoneyPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="178" x="2050" y="861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="33">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="34" name="player2CardPanel"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="37" name="cardDistribute6"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="40" name="jokbo"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="43" name="cardDistribute7"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <bendpoint x="2841" y="470"/>    
+    <bendpoint x="2841" y="861"/>    
+    <bendpoint x="2841" y="1252"/>    
+    <bendpoint x="2841" y="1445"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="46" name="p5card"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="49" name="aiBettingplayer4"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="51">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <association id="52">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="53" name="gameManager"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <bendpoint x="1708" y="470"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="56" name="gameManager"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <bendpoint x="2321" y="861"/>    
+    <bendpoint x="2321" y="1252"/>    
+    <bendpoint x="2321" y="1445"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="59" name="player2Card1"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="62" name="player4CardPanel"/>      
+      <multiplicity id="63" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="64">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="65" name="aiBettingplayer5"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="68" name="repaintThread"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="70">    
+    <bendpoint x="589" y="470"/>    
+    <bendpoint x="589" y="861"/>    
+    <bendpoint x="589" y="1252"/>    
+    <bendpoint x="589" y="1445"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="71" name="p2card2"/>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="73">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="30"/>  
+  </nesting>  
+  <association id="74">    
+    <bendpoint x="1317" y="861"/>    
+    <bendpoint x="1317" y="1252"/>    
+    <bendpoint x="1317" y="1445"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="75" name="player3Card1"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="78" name="cards"/>      
+      <multiplicity id="79" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="81" name="waitingRoom"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="83">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="84" name="cardDistribute10"/>      
+      <multiplicity id="85" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="86">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="87" name="cardDistribute3"/>      
+      <multiplicity id="88" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="89">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="90">    
+    <bendpoint x="1338" y="861"/>    
+    <bendpoint x="1338" y="1252"/>    
+    <bendpoint x="1338" y="1445"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="91" name="player4Card1"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="93">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="94" name="cardDistribute5"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="96">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="25"/>  
+  </nesting>  
+  <association id="97">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="98" name="cardDistribute8"/>      
+      <multiplicity id="99" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="101" name="cardDistribute6"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <bendpoint x="1687" y="470"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="104" name="gameManager"/>      
+      <multiplicity id="105" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="106">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <association id="107">    
+    <bendpoint x="1275" y="861"/>    
+    <bendpoint x="1275" y="1252"/>    
+    <bendpoint x="1275" y="1445"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="108" name="player3Card2"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="110">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="111" name="playerCardPanel"/>      
+      <multiplicity id="112" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="113">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="114" name="cardDistribute9"/>      
+      <multiplicity id="115" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="116">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <nesting id="117">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <association id="118">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="119" name="cardDistribute5"/>      
+      <multiplicity id="120" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="121">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <association id="122">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="123" name="cardDistribute10"/>      
+      <multiplicity id="124" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="125">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="126" name="cardDistribute3"/>      
+      <multiplicity id="127" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="128">    
+    <bendpoint x="442" y="470"/>    
+    <bendpoint x="442" y="861"/>    
+    <bendpoint x="442" y="1252"/>    
+    <bendpoint x="442" y="1445"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="129" name="p4card"/>      
+      <multiplicity id="130" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="131">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="31"/>  
+  </nesting>  
+  <association id="132">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="133" name="clientThread"/>      
+      <multiplicity id="134" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="136" name="main"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="138">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="139" name="player5CardPanel"/>      
+      <multiplicity id="140" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="141">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <association id="142">    
+    <bendpoint x="818" y="861"/>    
+    <bendpoint x="818" y="1252"/>    
+    <bendpoint x="818" y="1445"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="143" name="playerCard2"/>      
+      <multiplicity id="144" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="145">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="146" name="clientRoom"/>      
+      <multiplicity id="147" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="148">    
+    <bendpoint x="547" y="470"/>    
+    <bendpoint x="547" y="861"/>    
+    <bendpoint x="547" y="1252"/>    
+    <bendpoint x="547" y="1445"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="149" name="p1card"/>      
+      <multiplicity id="150" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="151">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="152" name="cardDistribute4"/>      
+      <multiplicity id="153" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="154">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="22"/>  
+  </nesting>  
+  <nesting id="155">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="26"/>  
+  </nesting>  
+  <association id="156">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="157" name="playerSide"/>      
+      <multiplicity id="158" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="159">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="160" name="mainPanel"/>      
+      <multiplicity id="161" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="162">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="163" name="jokbo"/>      
+      <multiplicity id="164" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="165">    
+    <bendpoint x="1750" y="470"/>    
+    <bendpoint x="1635" y="861"/>    
+    <bendpoint x="1635" y="1252"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="166" name="wholeCardDeck"/>      
+      <multiplicity id="167" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="168">    
+    <bendpoint x="2820" y="470"/>    
+    <bendpoint x="2820" y="861"/>    
+    <bendpoint x="2820" y="1252"/>    
+    <bendpoint x="2820" y="1445"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="169" name="p3card2"/>      
+      <multiplicity id="170" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="171">    
+    <bendpoint x="1729" y="470"/>    
+    <bendpoint x="1614" y="861"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="172" name="playersJokbo"/>      
+      <multiplicity id="173" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="174">    
+    <bendpoint x="3717" y="470"/>    
+    <bendpoint x="3717" y="861"/>    
+    <bendpoint x="3717" y="1252"/>    
+    <bendpoint x="3717" y="1445"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="175" name="p2card2"/>      
+      <multiplicity id="176" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="177">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="178" name="singlePlay"/>      
+      <multiplicity id="179" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="180">    
+    <bendpoint x="568" y="470"/>    
+    <bendpoint x="568" y="861"/>    
+    <bendpoint x="568" y="1252"/>    
+    <bendpoint x="568" y="1445"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="181" name="p3card2"/>      
+      <multiplicity id="182" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="183">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="184" name="cardDistribute1"/>      
+      <multiplicity id="185" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="186">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="187" name="centerPlayers"/>      
+      <multiplicity id="188" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="189">    
+    <bendpoint x="2258" y="861"/>    
+    <bendpoint x="2258" y="1252"/>    
+    <bendpoint x="2258" y="1445"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="190" name="player5Card2"/>      
+      <multiplicity id="191" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="192">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="193" name="aiBettingplayer2"/>      
+      <multiplicity id="194" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="195">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="196" name="cardDistribute8"/>      
+      <multiplicity id="197" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="198">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="199" name="gameManager"/>      
+      <multiplicity id="200" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="201">    
+    <bendpoint x="484" y="470"/>    
+    <bendpoint x="484" y="861"/>    
+    <bendpoint x="484" y="1252"/>    
+    <bendpoint x="484" y="1445"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="202" name="p4card2"/>      
+      <multiplicity id="203" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="204">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="205" name="bettingButtonListener"/>      
+      <multiplicity id="206" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="207">    
+    <bendpoint x="1677" y="1252"/>    
+    <bendpoint x="1677" y="1445"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="208" name="card1"/>      
+      <multiplicity id="209" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="210">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="211" name="cardDistribute7"/>      
+      <multiplicity id="212" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="213">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="214" name="chattingPanel"/>      
+      <multiplicity id="215" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="216">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="24"/>  
+  </nesting>  
+  <association id="217">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="218" name="aiBettingplayer3"/>      
+      <multiplicity id="219" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="220">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="221" name="cardDistribute4"/>      
+      <multiplicity id="222" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="223">    
+    <bendpoint x="1296" y="861"/>    
+    <bendpoint x="1296" y="1252"/>    
+    <bendpoint x="1296" y="1445"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="224" name="player4Card2"/>      
+      <multiplicity id="225" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="226">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <association id="227">    
+    <bendpoint x="3822" y="470"/>    
+    <bendpoint x="3822" y="861"/>    
+    <bendpoint x="3822" y="1252"/>    
+    <bendpoint x="3822" y="1445"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="228" name="p4card"/>      
+      <multiplicity id="229" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="230">    
+    <bendpoint x="2279" y="861"/>    
+    <bendpoint x="2279" y="1252"/>    
+    <bendpoint x="2279" y="1445"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="231" name="player5Card1"/>      
+      <multiplicity id="232" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="233">    
+    <bendpoint x="505" y="470"/>    
+    <bendpoint x="505" y="861"/>    
+    <bendpoint x="505" y="1252"/>    
+    <bendpoint x="505" y="1445"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="234" name="p5card"/>      
+      <multiplicity id="235" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="236">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="237">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="238" name="moneyPanel"/>      
+      <multiplicity id="239" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="240">    
+    <bendpoint x="1635" y="1445"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="241" name="card"/>      
+      <multiplicity id="242" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="243">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <association id="244">    
+    <bendpoint x="3780" y="470"/>    
+    <bendpoint x="3780" y="861"/>    
+    <bendpoint x="3780" y="1252"/>    
+    <bendpoint x="3780" y="1445"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="245" name="p4card2"/>      
+      <multiplicity id="246" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="247">    
+    <bendpoint x="2300" y="861"/>    
+    <bendpoint x="2300" y="1252"/>    
+    <bendpoint x="2300" y="1445"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="248" name="player2Card2"/>      
+      <multiplicity id="249" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="250">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="32"/>  
+  </nesting>  
+  <nesting id="251">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <association id="252">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="253" name="player3CardPanel"/>      
+      <multiplicity id="254" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="255">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="256">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="257" name="cardDistribute1"/>      
+      <multiplicity id="258" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="259">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="260" name="playerSide"/>      
+      <multiplicity id="261" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="262">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="263" name="btns"/>      
+      <multiplicity id="264" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="265">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="266" name="gameManager"/>      
+      <multiplicity id="267" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="268">    
+    <bendpoint x="610" y="470"/>    
+    <bendpoint x="610" y="861"/>    
+    <bendpoint x="610" y="1252"/>    
+    <bendpoint x="610" y="1445"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="269" name="p1card2"/>      
+      <multiplicity id="270" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="271">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <association id="272">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="273" name="multiPlay"/>      
+      <multiplicity id="274" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="275">    
+    <bendpoint x="1359" y="861"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="276" name="jokbo"/>      
+      <multiplicity id="277" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="278">    
+    <bendpoint x="797" y="861"/>    
+    <bendpoint x="797" y="1252"/>    
+    <bendpoint x="797" y="1445"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="279" name="playerCard1"/>      
+      <multiplicity id="280" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="281">    
+    <bendpoint x="463" y="470"/>    
+    <bendpoint x="463" y="861"/>    
+    <bendpoint x="463" y="1252"/>    
+    <bendpoint x="463" y="1445"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="282" name="p2card"/>      
+      <multiplicity id="283" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="284">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="285" name="northernPlayers"/>      
+      <multiplicity id="286" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="287">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <generalization id="288">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="289">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="290" name="northernPlayers"/>      
+      <multiplicity id="291" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="292">    
+    <bendpoint x="3759" y="470"/>    
+    <bendpoint x="3759" y="861"/>    
+    <bendpoint x="3759" y="1252"/>    
+    <bendpoint x="3759" y="1445"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="293" name="p3card"/>      
+      <multiplicity id="294" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="295">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="296" name="gameThread"/>      
+      <multiplicity id="297" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="298">    
+    <bendpoint x="3801" y="470"/>    
+    <bendpoint x="3801" y="861"/>    
+    <bendpoint x="3801" y="1252"/>    
+    <bendpoint x="3801" y="1445"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="299" name="p1card"/>      
+      <multiplicity id="300" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="301">    
+    <bendpoint x="226" y="470"/>    
+    <bendpoint x="226" y="861"/>    
+    <bendpoint x="226" y="1252"/>    
+    <bendpoint x="226" y="1445"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="302" name="p5card2"/>      
+      <multiplicity id="303" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="304">    
+    <bendpoint x="2799" y="861"/>    
+    <bendpoint x="2799" y="1252"/>    
+    <bendpoint x="2799" y="1445"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="305" name="playerCard2"/>      
+      <multiplicity id="306" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="307">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="308" name="cardDeck"/>      
+      <multiplicity id="309" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="310">    
+    <bendpoint x="526" y="470"/>    
+    <bendpoint x="526" y="861"/>    
+    <bendpoint x="526" y="1252"/>    
+    <bendpoint x="526" y="1445"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="311" name="p3card"/>      
+      <multiplicity id="312" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="313">    
+    <bendpoint x="1666" y="470"/>    
+    <bendpoint x="1401" y="861"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="314" name="playersJokbo"/>      
+      <multiplicity id="315" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="316">    
+    <bendpoint x="2862" y="470"/>    
+    <bendpoint x="2862" y="861"/>    
+    <bendpoint x="2862" y="1252"/>    
+    <bendpoint x="2862" y="1445"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="317" name="p1card2"/>      
+      <multiplicity id="318" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="319">    
+    <bendpoint x="3738" y="470"/>    
+    <bendpoint x="3738" y="861"/>    
+    <bendpoint x="3738" y="1252"/>    
+    <bendpoint x="3738" y="1445"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="320" name="p5card2"/>      
+      <multiplicity id="321" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="322">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="323" name="repaintThread"/>      
+      <multiplicity id="324" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="325">    
+    <bendpoint x="3696" y="470"/>    
+    <bendpoint x="3696" y="861"/>    
+    <bendpoint x="3696" y="1252"/>    
+    <bendpoint x="3696" y="1445"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="326" name="p2card"/>      
+      <multiplicity id="327" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="328">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="329" name="gameThread"/>      
+      <multiplicity id="330" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="331">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="332" name="playerBettingPanel"/>      
+      <multiplicity id="333" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="334">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="335" name="centerPlayers"/>      
+      <multiplicity id="336" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="337">    
+    <bendpoint x="1645" y="470"/>    
+    <bendpoint x="1380" y="861"/>    
+    <bendpoint x="1380" y="1252"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="338" name="wholeCardDeck"/>      
+      <multiplicity id="339" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="340">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="341" name="cardDistribute2"/>      
+      <multiplicity id="342" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="343">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="344" name="cardDistribute2"/>      
+      <multiplicity id="345" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="346">    
+    <bendpoint x="1656" y="1252"/>    
+    <bendpoint x="1656" y="1445"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="347" name="card2"/>      
+      <multiplicity id="348" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="349">    
+    <bendpoint x="2778" y="861"/>    
+    <bendpoint x="2778" y="1252"/>    
+    <bendpoint x="2778" y="1445"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="350" name="playerCard1"/>      
+      <multiplicity id="351" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="352">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="353" name="cardDistribute9"/>      
+      <multiplicity id="354" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

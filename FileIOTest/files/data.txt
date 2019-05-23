@@ -1,0 +1,10 @@
+Hello
+Nice
+World
+안녕하세요
+
+apple
+banana
+orange
+Student
+Person
